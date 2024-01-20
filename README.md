@@ -1,6 +1,7 @@
 # GitHubRepoDataBridge
 
-Overview
+Overview:
+
 GitHubRepoDataBridge is an innovative data management tool designed to streamline the process of extracting, transforming, and loading GitHub repository data. This project focuses on efficiently retrieving data from GitHub, storing it in EdgeDB, and then transferring it to Milvus, a vector database. It's an end-to-end solution for handling GitHub data with accuracy and speed.
 
 Key Features:
